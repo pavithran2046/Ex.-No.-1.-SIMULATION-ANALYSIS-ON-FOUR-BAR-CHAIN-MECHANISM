@@ -53,10 +53,15 @@
 
 
 ## Output:
+![image](https://github.com/pavithran2046/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/139334834/1a86eb8f-e36b-45ec-931c-d963da42f2c5)
+![image](https://github.com/pavithran2046/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/139334834/941ad98d-21be-4623-9666-ae88b490d582)
+![image](https://github.com/pavithran2046/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/139334834/699e3f5d-f0da-4886-af4d-9d209dfe1001)
 
 
-### Name:
-### Register Number: 
+
+
+### Name:PAVITHRAN S
+### Register Number: 212223240113
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
